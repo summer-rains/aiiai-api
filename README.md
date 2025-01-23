@@ -1,20 +1,11 @@
 <div align="center">
 
-![new-api](/web/public/logo.png)
-
 # AIIAI API
-
-<a href="https://trendshift.io/repositories/8227" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8227" alt="Calcium-Ion%2Fnew-api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 </div>
 
 > [!NOTE]
 > 本项目为开源项目，在[One API](https://github.com/songquanpeng/one-api)和[New api](https://github.com/Calcium-Ion/new-api.git)的基础上进行二次开发
-
-> [!IMPORTANT]
-> 使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
-> 本项目仅供个人学习使用，不保证稳定性，且不提供任何技术支持。
-> 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
 ## 欢迎了解另外两个二开项目
 - [ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro)
@@ -153,15 +144,9 @@ docker run --name new-api -d --restart always -p 3000:3000 -e SQL_DSN="root:1234
 ![image](https://github.com/Calcium-Ion/new-api/assets/61247483/1c66b593-bb9e-4757-9720-ff2759539242)
 ![image](https://github.com/Calcium-Ion/new-api/assets/61247483/af9a07ee-5101-4b3d-8bd9-ae21a4fd7e9e)
 
-## 交流群
-<img src="https://github.com/user-attachments/assets/9ca0bc82-e057-4230-a28d-9f198fa022e3" width="200">
+## 交流
+微信：822784588
 
 ## 相关项目
-- [One API](https://github.com/songquanpeng/one-api)：原版项目
-- [Midjourney-Proxy](https://github.com/novicezk/midjourney-proxy)：Midjourney接口支持
-- [chatnio](https://github.com/Deeptrain-Community/chatnio)：下一代 AI 一站式 B/C 端解决方案
-- [neko-api-key-tool](https://github.com/Calcium-Ion/neko-api-key-tool)：用key查询使用额度
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Calcium-Ion/new-api&type=Date)](https://star-history.com/#Calcium-Ion/new-api&Date)
+- [One API](https://github.com/songquanpeng/one-api)
+- [New api](https://github.com/Calcium-Ion/new-api.git)
