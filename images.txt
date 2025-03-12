@@ -1,0 +1,3 @@
+calciumion/new-api:latest
+redis:latest
+mysql:8.2
